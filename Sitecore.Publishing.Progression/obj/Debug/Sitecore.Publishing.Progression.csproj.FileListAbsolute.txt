@@ -1,0 +1,18 @@
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\bin\Debug\Sitecore.Publishing.Progression.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\bin\Debug\Sitecore.Publishing.Progression.pdb
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\bin\Debug\Sitecore.Client.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\bin\Debug\Sitecore.Kernel.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\bin\Debug\Newtonsoft.Json.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\bin\Debug\Sitecore.Zip.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\obj\Debug\Sitecore.Publishing.Progression.csprojResolveAssemblyReference.cache
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\obj\Debug\Sitecore.Publishing.Progression.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\obj\Debug\Sitecore.Publishing.Progression.pdb
+C:\Users\mnamooya\Desktop\Publishing\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\bin\Debug\Sitecore.Publishing.Progression.dll
+C:\Users\mnamooya\Desktop\Publishing\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\bin\Debug\Sitecore.Publishing.Progression.pdb
+C:\Users\mnamooya\Desktop\Publishing\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\bin\Debug\Sitecore.Client.dll
+C:\Users\mnamooya\Desktop\Publishing\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\bin\Debug\Sitecore.Kernel.dll
+C:\Users\mnamooya\Desktop\Publishing\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mnamooya\Desktop\Publishing\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\bin\Debug\Sitecore.Zip.dll
+C:\Users\mnamooya\Desktop\Publishing\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\obj\Debug\Sitecore.Publishing.Progression.dll
+C:\Users\mnamooya\Desktop\Publishing\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\obj\Debug\Sitecore.Publishing.Progression.pdb
+C:\Users\mnamooya\Desktop\Publishing\Sitecore.Publishing.Progression\Sitecore.Publishing.Progression\obj\Debug\Sitecore.Publishing.Progression.csprojResolveAssemblyReference.cache

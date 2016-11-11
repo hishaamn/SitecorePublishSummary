@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<control xmlns:def="Definition" xmlns="http://schemas.sitecore.net/Visual-Studio-Intellisense">
+  <PublishProgression>
+    <FormPage>
+      <Stylesheet Src="Ribbon.css" DeviceDependant="true"/>
+      <Stylesheet Src="Content Manager.css" DeviceDependant="true"/>
+      <CodeBeside Type="Sitecore.Publishing.Progression.Core.FormInitializer, Sitecore.Publishing.Progression"/>
+
+      <Border ID="Grid">
+        <Border ID="RibbonPanel"/>
+      </Border>
+
+      <GridPanel ID="MainGridPanel" class="scBackground" vAlign="top" Height="100%" Width="100%" Cellpadding="0" Style="position:fixed">
+
+        <GridPanel ID="GridPublishSummary" align="right" GridPanel.vAlign="top" width="100%" Style="table-layout:fixed">
+          <Groupbox ID="GroupPublishSummary" Header="Publishing In Progress">
+            <Border Padding="4">
+              <GridPanel ID="GridPublishData" Columns="4" Cellpadding="10"/>
+            </Border>
+          </Groupbox>
+          <Space Height="15px"/>
+          <Literal ID="LitPublishedItems" class="scEditorHeaderTitle" Style="color:red" Text="Published Items"/>
+          <Scrollbox Width="100%" Height="50%" Padding="0" Style="position:fixed">
+            <Listview ID="ListPublishedItem" View="Details" Width="100%" Background="white" >
+              <ListviewHeader>
+                <ListviewHeaderItem Name="icon" Header="Icon" />
+                <ListviewHeaderItem Name="itemName" Header="Item Name" />
+                <ListviewHeaderItem Name="itemPath" Header="Item Path" />
+              </ListviewHeader>
+            </Listview>
+          </Scrollbox>
+        </GridPanel>
+
+      </GridPanel>
+    </FormPage>
+  </PublishProgression>
+</control>
